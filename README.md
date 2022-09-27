@@ -8,7 +8,7 @@ input math function.
 ### Step 2: 
 assign the values of point 1 and point 2 whose distance is to calculated.
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
 print the coding to get the anser.
 ### Step 5: 
