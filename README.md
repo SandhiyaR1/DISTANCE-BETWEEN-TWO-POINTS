@@ -26,6 +26,5 @@ def circulate():
 ```
 ### OUTPUT:
 ![output](/dis.png)
-
 ### RESULT:
 Thus,tHe distance between two points is calculated.
