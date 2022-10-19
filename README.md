@@ -18,13 +18,13 @@ end the program.
 #Program to circulate N values.
 #Developed by: sandhiya.R
 #RegisterNumber:22001197
-def circulate():
-    a = eval(input ())
-    n=int(input())
-    a=a[n:]+a[:n]
-    print("After circulating the values are:",a)
+import math
+l1=[4,2]
+l2=[10,6]
+distance=math.sqrt (((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
+print('{:.2f}'.format(distance))
 ```
 ### OUTPUT:
-![output](/dis.png)
+![output](/output.png)
 ### RESULT:
 Thus,tHe distance between two points is calculated.
