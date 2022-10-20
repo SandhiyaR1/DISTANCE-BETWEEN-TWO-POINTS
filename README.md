@@ -1,18 +1,18 @@
 # DISTANCE-BETWEEN-TWO-POINTS
 
 ## AIM:
-To write a python program to find the distance two 2 points
+To write a python program to find the distance two 2 points.
 ## ALGORITHM:
 ### Step 1: 
-input math function.
+Import math
 ### Step 2: 
-assign the values of point 1 and point 2 whose distance is to calculated.
+Assign the values of point 1 and point 2 whose distance is to calculated.
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
-print the coding to get the anser.
+Print the coding to get the answer.
 ### Step 5: 
-end the program.
+End the program.
 ### PROGRAM:
   ``` python
 #Program to circulate N values.
